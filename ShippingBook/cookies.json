@@ -1,0 +1,112 @@
+[
+  {
+    "name": "akacd_IAM_ACCOUNTS_PROD",
+    "value": "2147483647~rv=80~id=37e5cadb2f872d45e62c537a3305c00c",
+    "domain": "accounts.maersk.com",
+    "path": "/",
+    "expires": 1.7892493E+09,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": 2,
+    "partitionKey": null
+  },
+  {
+    "name": "ak_bmsc",
+    "value": "90681318E90961D00FCDA0C3087CFA78~000000000000000000000000000000~YAAQZ/UWAs1eboiYAQAAtbugixyeyEVPvzRmCNn/t0qlqVIL8DP6iVmKog/rUHb8WQjDLDZC2iByJVo50aInVhfJR5ZS\u002Ba0vD1DKc25M5X0FLLe1v3bZIjZpGbnv1hA28b5Tp8R5awIbs6iWRTPTz0rxJc3WXiDt12dovRjtjpkkfwC/DGZJ353GeefW/j2RUaVVurhaohCmPnXZpJ6JBqNRkprbG4xHathq/5K1aEjVvN9eixRYKSk1fw9lsGnhblp\u002BoOb1Wal73yfC8CfFXi2KlJAs9SAQ\u002BkTEeNd7nT8ONLWbQXoB5RJ22vkBkgPIBYu0W51idTaVPt70jJ5tlOodXTmXHx4ypb\u002BoFWSNDSPq8coOYtOgjQds9fa/u7KywxdXR1X9TtO2qRvGNLVRDnfoUuAwqDJ6tGXzCHPSBLWWtoskeM5B52uyv36cze3bJv8DU5w=",
+    "domain": ".maersk.com",
+    "path": "/",
+    "expires": 1.7546964E+09,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": 1,
+    "partitionKey": null
+  },
+  {
+    "name": "akacd_IAM_PROD_AM",
+    "value": "2147483647~rv=69~id=1991adc28b83db4cda2758458c05497e",
+    "domain": "accounts.maersk.com",
+    "path": "/",
+    "expires": 1.7892493E+09,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": 2,
+    "partitionKey": null
+  },
+  {
+    "name": "CookieInformationConsent",
+    "value": "%7B%22website_uuid%22%3A%225bd95c7e-c32e-4a33-bdb6-a640b99797ca%22%2C%22timestamp%22%3A%222025-08-08T21%3A40%3A26.556Z%22%2C%22consent_url%22%3A%22https%3A%2F%2Faccounts.maersk.com%2Focean-maeu%2Fauth%2Flogin%22%2C%22consent_website%22%3A%22maersk.com%22%2C%22consent_domain%22%3A%22accounts.maersk.com%22%2C%22user_uid%22%3A%22272a5a4d-8b09-4853-be22-70e25fd26fa3%22%2C%22consents_approved%22%3A%5B%22cookie_cat_necessary%22%5D%2C%22consents_denied%22%3A%5B%22cookie_cat_functional%22%2C%22cookie_cat_statistic%22%2C%22cookie_cat_marketing%22%2C%22cookie_cat_unclassified%22%5D%2C%22user_agent%22%3A%22Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F114.0.0.0%20Safari%2F537.36%22%7D",
+    "domain": "accounts.maersk.com",
+    "path": "/",
+    "expires": 1.7558989E+09,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": 1,
+    "partitionKey": null
+  },
+  {
+    "name": "CookieInformationConfig",
+    "value": "NobwRAlgJmBcYC8DSAmAagBwFIGsD2A7gIZgA0YUeAtkRAHYDOcwYNApgE4M4B0AxtX50yYAATsuvAVRGiARmwAuRHhO79qsonwEBXOooaqinddKFadefYeOmpm8vKUq1DqhYC6AX09A",
+    "domain": "policy.app.cookieinformation.com",
+    "path": "/",
+    "expires": 1.7862253E+09,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": 2,
+    "partitionKey": null
+  },
+  {
+    "name": "CookieInformationConsent_zK2VpJkowa",
+    "value": "N4Ig7gpgRgzglgFwgfQK6rgExALhAVikwE58BjAdggFoyBmAJhoBYBDOu6oqANmtZ7MADFGLEK4sqxAAaEAjgBbCDAStFAB1wgGQhvmpCAHIaMAVBgEYcwnAx4A6fPh4AtWSDIB7AHYwIPghoAE4ANtoAFggIGjA4APTxrGTeqIEwDoqsEMEwANYO3orxXmQQrD7UWRCoSagIEfGhXgDmcD4e3n4BQZCwiBDa1bkFRZ2\u002B-oHImF5Z7drJqemZ2SOFsx6o-sFoWNoMFAys\u002BKzMmNRGUELE1MxG\u002BJxQEAwM1BRCz-gAZpj2X\u002BzjbrpZCsDQaYJeABuEGwOAA2p4vF48nAUFIgj4IGUYDBWMEAJ4gAC6ci6kwQMGmAVRsIR3mRqOQ6OQXzSZAUvlY4VJSJRaNYQVUArgqjgZHGDP5QSywTyEAUPhaEr5TIFaB8ZFCrBxcC\u002BNOJci2ORBLR62gAsl4AF5wUJa\u002BL4BxCAAEAAoAOrtGZgGDOgByZmdliEToA3M7PT5BOGAB6CACUzoAgmDQhB3dAANKIB10CgOOg8N2ZgASZnNABkZM7QnA5c6AOJYvJeRMAYQiEOU8UslmYToHLoAyqx-sE4Ln84WQABfIA",
+    "domain": "policy.app.cookieinformation.com",
+    "path": "/",
+    "expires": 1.7558989E+09,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": 2,
+    "partitionKey": null
+  },
+  {
+    "name": "BrowserId",
+    "value": "TDS_3nSgEfC7KBdho-WRRg",
+    "domain": ".force.com",
+    "path": "/",
+    "expires": 1.7862253E+09,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": 2,
+    "partitionKey": null
+  },
+  {
+    "name": "_abck",
+    "value": "EEE74B8459A595D5F91274118F11C196~0~YAAQZ/UWAoNgboiYAQAAqsmgiw6kcZYPu/sL6ZOq7eHP7GXlQoUHRpYYdRmln2DR7qAWl15JOMuh9DSMu1uMK3JXDrITkZD0R1qvYQt\u002B/Unroh5gbIN\u002Bl9ZHxE67IJ/5GFFbRA1l80BlJvbNpZvTxSG0D024VUI6m2m133Jo1WiX3IYaDh0AuZw00HBcYwnCBc5ov3CCL2Z3jcXUsAQ1DgpWHA8zGCly/QscbxbF2NyMPpqAntc\u002B/WQSlzWVvMZ4CzQQ2GI2cmnVlQFKkNlsnnAPr5K72k5FrMCTGXyayokEaYmtIrjpqyjzDHDcAzE/EWykOKmYzYX1qNWrNAxf9\u002BZkVUVHxZ3ucDQReJb0Ps3AydBCPVPrpJiAvorAtemap/qUnayG/T8vn6GbHx6ZZCu\u002BKgxsbMy0hFudt0aP78QF6qzk/XZqAibo9HRjP0K4VWf7EKf1kEqBKLQlnNvQOVVSlgEnRSqt7xTGpcnHYA81370fsM3yo6uO0fPULURcLuj5MujfOgjwbYshUP6B/KvmoxaK0oK\u002BoQvyXqbjzl55z1MnOztCTuHpCqp\u002B2HDDmb4hEczssRjUZnvS847\u002BX2mcE/81s5XyMgEAKb4WWhWGqJyJQKoljlZJ\u002BtXbESNuA5kHRptRhDtE9Dljcb4BA0cvnv69oa6t/BRJUQofKTi83/0KP0vcelLU8OMsJUkJ\u002BoXyeu1ZuFnCirg4nrDw3P0PqdQLhC4gZawd7v5bLkJTHhuJfOcPsrPL8Sj6kOiXxLD4ZlZ7ODRqkV9j8rDc1DVl\u002B3GhkhWEJQpYKM99GjsleiEfQQZvVI4jGsFxbWYKxZ\u002BMhgpNpSOjOrSilKCFtPMsJNPG9PRxSJYCaeGTVcc/HScOevE/w2aC6urVKpToc5P9/7wk\u002BknlrOEDI4o3PplWrxFzV3WOATM=~-1~-1~1754692822",
+    "domain": ".maersk.com",
+    "path": "/",
+    "expires": 1.7862253E+09,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": 1,
+    "partitionKey": null
+  },
+  {
+    "name": "bm_sv",
+    "value": "503A0DB5670EBBD763131893C4F532E4~YAAQZ/UWAoRgboiYAQAAqsmgixyUtiVQD05aktWPr1Mn3YYYGw7HJej1wCtZlRzNsehDc23Js2aoJtuEde25Z1yRsqPdjPpCQlS48N6bQbZOyIo9kH425e8gqxG4sFeFPIImaVUcxYucRtlasjMaKWkAhULEsvTc7q8rg3yvafjJMY\u002B5TDGt3lIChsmMMFiAWzSd\u002BYO4J29V9x5W2NpPd9VUAAvMr4O1j1i81f1Woidha67l7TQbFEQCHNI0PC4X~1",
+    "domain": ".maersk.com",
+    "path": "/",
+    "expires": 1.7546964E+09,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": 1,
+    "partitionKey": null
+  },
+  {
+    "name": "bm_sz",
+    "value": "B42E9D693821E446BFC58440DFB7EB3E~YAAQZ/UWAoVgboiYAQAAqsmgixwo6ECm38TwSYuHDop2M3rgzlzOVJlPTXeC8L4UHJbj9MaXFYERtuuT9YKqGXtEVs6n7QYSdPblNRp7oZCuG/FMOV2ODyGRQjIiT7yZL44qAy53EsUZtsq\u002ByWKGdprXe6uEPzKIwMIE22LHm7oX0EA/P0Spxkdy\u002BGwR4ai5BD2yqiqEhC4esJWyWZRvfF/UkK8/PTEgE73FMkxdqFAALfUxluE8u5thZdKK9zUs73fnaQpy83ioQLQMdUzhbAwOOlCfXc20UVRUD19Ll2x7iYgErInO0pW87TyzWBoUEm1kbvuYWWbcjvEO4p1SiCM2RplPEEv1bA8U56SqrF07AE6YKiv8YtNXn4ylCu/QkqZnmVPxKN/W3I34~4272689~4404801",
+    "domain": ".maersk.com",
+    "path": "/",
+    "expires": 1.7547036E+09,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": 1,
+    "partitionKey": null
+  }
+]
